@@ -1,2 +1,3 @@
 # misc
-research, play repository
+research, play repository.
+free to experiment.
